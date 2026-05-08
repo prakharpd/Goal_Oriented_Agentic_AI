@@ -1,1 +1,1 @@
-# Goal_Oriented_Agentic_AI
+# Goal Oriented Agentic AI
